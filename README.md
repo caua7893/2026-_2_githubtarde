@@ -1,2 +1,4 @@
-# 2026-_2_githubtarde
-Repositório para disponibilizar material sobre o github.
+#trabalhando com o github
+##riando um repositório de nome Cauã Araujo 
+Estou conhecendo a plataforma guthub para que eu possa ter um maior acesso sobre os meus programas
+
